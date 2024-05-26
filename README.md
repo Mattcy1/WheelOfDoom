@@ -5,7 +5,7 @@
 
 <h1 align="center">The Wheel Of Doom</h1>
 
-### Introducing a new wheel feature in the game, positioned in the bottom left corner.
+### Introducing a new wheel feature in the game, positioned in the bottom left corner. This mod wouldn't be possible without DarkTerraYT's help
 
 <p float="left">
     <img alt="The Wheel Of Doom" width="300" height="300" src="Icon.png"/>
